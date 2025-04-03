@@ -16,4 +16,3 @@ This project presents an **interactive Power BI dashboard** designed to analyze 
 ## 📂 Project Files  
 - 📄 [`Insurance Data Analysis.pbix`](https://github.com/Chinmay311003/Insurance-Data-Analysis-Power-BI-/blob/main/Insurance%20Data%20Analysis.pbix) - The Power BI dashboard file.  
 - 📊 [`InsuranceData.xlsx`](https://github.com/Chinmay311003/Insurance-Data-Analysis-Power-BI-/blob/main/InsuranceData.xlsx) - The dataset used for analysis.  
-- 📜 `README.md` - Documentation about the project.  
